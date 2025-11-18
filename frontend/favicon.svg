@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="fire leaf icon">
+  <defs>
+    <linearGradient id="fire" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f97316" />
+      <stop offset="100%" stop-color="#dc2626" />
+    </linearGradient>
+  </defs>
+  <circle cx="32" cy="32" r="30" fill="#022c22" />
+  <path
+    d="M32 8c6 8 10 14 10 21 0 7-4 13-10 13s-10-6-10-13c0-7 4-13 10-21z"
+    fill="url(#fire)"
+  />
+  <path d="M32 50c-6-4-12-3-16-1 4 7 11 11 16 11s12-4 16-11c-4-2-10-3-16 1z" fill="#34d399" />
+</svg>

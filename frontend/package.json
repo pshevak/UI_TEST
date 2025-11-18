@@ -1,5 +1,6 @@
 {
   "name": "post-wildfire-dss",
+  "homepage": "https://pshevak.github.io/UI_TEST",
   "version": "0.1.0",
   "private": true,
   "scripts": {
